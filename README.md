@@ -1,2 +1,6 @@
 # anz-chk-cart-search-indexer-webapp
-checkout / critical / anz
+
+Team: **checkout**  
+Tier: **critical**  
+Region: **anz**  
+Synthetic demo repo for the Domo governance platform.
